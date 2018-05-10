@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Welcome to osr!backup</title>
+        <style>
+            body {
+                background-color:#a9a9ff;
+                font-family:'Segoe UI';
+                text-align:center;
+            }
+            
+            .button {
+                background-color: #bb1177e6; /* idk, just ask peppy for this color */
+                border: none;
+                color: white;
+                padding: 15px 32px;
+                text-align: center;
+                text-decoration: none; /*srsly, why?*/
+                display: inline-block;
+                font-size: 17px;
+            }
+            </style>
+    </head>
+    <body>
+        <header style="font-size:45px;">osu!replays backup</header>
+        <br>
+        <br>
+        <a href="dir.html"><button type="button">click here for replay db</button></a>
+        <br>
+        <br>
+        <h2 style="font-size:37px">Total replay entries</h2>
+        <h3 style="font-size:60px"><strong><b>300</b></strong></h3>
+        <br>
+        <br>
+        <br>
+        <a href=".." class="button">Back to The Main Hall</a>
+    </body>
+</html>
