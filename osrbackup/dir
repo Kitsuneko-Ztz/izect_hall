@@ -1,0 +1,1026 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Directory Page 1</title>
+        <style>
+            table {
+                font-family: 'Segoe UI', sans-serif;
+                border-collapse: collapse;
+                width: 100%
+            }
+            
+            td, th {
+                border: 1px solid #dddddd;
+                text-align: left;
+                padding: 8px;
+            }
+
+            tr:nth-child(even) {
+                background-color: #dddddd;
+            }
+        </style>
+        <link rel="stylesheet" type="text/css" href="layers.css">
+    </head>
+    <body>
+        <a href="../main_menu.html">Back to Main Menu</a>
+        <br>
+        <br>
+        <table>
+            <tr>
+                <th>Date Submitted</th>
+                <th>Artist - Title</th>
+                <th>Difficulty</th>
+                <th>Star Rating</th>
+                <th>Length (Drain)</th>
+                <th>Mode</th>
+                <th>Score</th>
+                <th>Max Combo</th>
+                <th>Accuracy</th>
+                <th>Rank</th>
+                <th>Mods</th>
+                <th>osr Link</th>
+            </tr>
+            <tr>
+                <td><time>February 10, 2018 04:19:14</time></td>
+                <td><a href="https://osu.ppy.sh/s/707380" target="_blank">ClariS - SHIORI vs. Hitorigoto</a></td>
+                <td><a href="https://osu.ppy.sh/b/1496486" target="_blank">Insane</a></td>
+                <td>4.23</td>
+                <td>1:37 (1:37)</td>
+                <td>STD</td>
+                <td>1,642,289</td>
+                <td>305x</td>
+                <td>93.16%</td>
+                <td><b style="color:green">A</b></td>
+                <td>Hidden</td>
+                <td><a href="https://shortcakeosr.s-ul.eu/Phb0ktql"><button type="button">Get Replay!</button></a></td>
+            </tr>
+            <tr>
+                <td><time>August 30, 2017 02:25:20</time></td>
+                <td><a href="https://osu.ppy.sh/s/318036" target="_blank">Helblinde - Putin's Boner</a></td>
+                <td><a href="https://osu.ppy.sh/b/717097" target="_blank">ZLOdeuka's Hard</a></td>
+                <td>2.31</td>
+                <td>3:55 (3:32)</td>
+                <td>CTB</td>
+                <td>20,873,286</td>
+                <td>1012x</td>
+                <td>99.84%</td>
+                <td><b style="color:yellow">S</b></td>
+                <td>-</td>
+                <td><a href="https://shortcakeosr.s-ul.eu/nh3FTiEd"><button type="button">Get Replay!</button></a></td>
+            </tr>
+            <tr>
+                <td><time>December 31, 2017 04:15:08</time></td>
+                <td><a href="https://osu.ppy.sh/s/338329" target="_blank">Dzeko & Torres - 2014 in 10 Minutes</a></td>
+                <td><a href="https://osu.ppy.sh/b/748505" target="_blank">Marathon</a></td>
+                <td>3.92</td>
+                <td>10:05 (9:11)</td>
+                <td>STD</td>
+                <td>17,458,505</td>
+                <td>864x</td>
+                <td>90.89%</td>
+                <td><b style="color:blue">B</b></td>
+                <td>Hidden</td>
+                <td><a href="https://shortcakeosr.s-ul.eu/TShtKEXO"><button type="button">Get Replay!</button></a></td>
+            </tr>
+            <tr>
+                <td><time>January 28, 2018 02:41:34</time></td>
+                <td><a href="http://osu.ppy.sh/s/301138" target="_blank">Pegboard Nerds - Try This</a></td>
+                <td><a href="https://osu.ppy.sh/b/675330" target="_blank">Insane</a></td>
+                <td>4.51</td>
+                <td>1:50 (1:48)</td>
+                <td>STD</td>
+                <td>2,100,851</td>
+                <td>281x</td>
+                <td>89.12%</td>
+                <td><b style="color:green">A</b></td>
+                <td>Hidden</td>
+                <td><a href="https://shortcakeosr.s-ul.eu/hFuSVoYw"><button type="button">Get Replay!</button></a></td>
+            </tr>
+            <tr>
+                <td><time>December 12, 2017 06:40:14</time></td>
+                <td><a href="https://osu.ppy.sh/s/542081" target="_blank">Elmo and Cookie Monster - Cookie-Butter-Choco-Cookie</a></td>
+                <td><a href="https://osu.ppy.sh/b/1205931" target="_blank">Ozzy's Muzukashii</a></td>
+                <td>2.20</td>
+                <td>0:41 (0:39)</td>
+                <td>Taiko</td>
+                <td>125,923</td>
+                <td>111x</td>
+                <td>99.55%</td>
+                <td><b style="color:yellow">S</b></td>
+                <td>-</td>
+                <td><a href="https://shortcakeosr.s-ul.eu/90WCVO61"><button type="button">Get Replay!</button></a></td>
+            </tr>
+            <tr>
+                <td><time>January 19, 2018 21:53:14</time></td>
+                <td><a href="http://osu.ppy.sh/s/466758" target="_blank">boa - duvet TV sized</a></td>
+                <td><a href="https://osu.ppy.sh/b/1241226" target="_blank">Polka's Hyper</a></td>
+                <td>3.66</td>
+                <td>1:12 (1:12)</td>
+                <td>STD</td>
+                <td>797,654</td>
+                <td>209x</td>
+                <td>93.84%</td>
+                <td><b style="color:grey">SH</b></td>
+                <td>Hidden</td>
+                <td><a href="https://shortcakeosr.s-ul.eu/hx0LapLR"><button type="button">Get Replay!</button></a></td>
+            </tr>
+            <tr>
+                <td><time>February 23, 2018 18:15:32</time></td>
+                <td><a href="https://osu.ppy.sh/s/479671" target="_blank">Muzzy - Draining Atlantic</a></td>
+                <td><a href="https://osu.ppy.sh/b/1024215" target="_blank">Don't forget me.</a></td>
+                <td>5.02</td>
+                <td>5:53 (5:29)</td>
+                <td>STD</td>
+                <td>3,065,834</td>
+                <td>421x</td>
+                <td>86.71%</td>
+                <td><b style="color:blue">B</b></td>
+                <td>Hidden</td>
+                <td><a href="https://shortcakeosr.s-ul.eu/rz8luNfl"><button type="button">Get Replay!</button></a></td>
+            </tr>
+            <tr>
+                <td><time>February 23, 2018 22:27:07</time></td>
+                <td><a href="http://osu.ppy.sh/s/240234" target="_blank">ShockOne - Home (feat. Reija Lee)</a></td>
+                <td><a href="https://osu.ppy.sh/b/555236" target="_blank">Insane</a></td>
+                <td>4.11</td>
+                <td>2:12 (1:52)</td>
+                <td>STD</td>
+                <td>1,953,415</td>
+                <td>286x</td>
+                <td>93.47%</td>
+                <td><b style="color:green">A</b></td>
+                <td>Hidden</td>
+                <td><a href="https://shortcakeosr.s-ul.eu/KdP6XBvU"><button type="button">Get Replay!</button></a></td>
+            </tr>
+            <tr>
+                <td><time>March 1, 2018 03:05:44</time></td>
+                <td><a href="http://osu.ppy.sh/s/123756" target="_blank">Pendulum - The Island</a></td>
+                <td><a href="https://osu.ppy.sh/b/315867" target="_blank">Absolution</a></td>
+                <td>4.21</td>
+                <td>8:54 (8:07)</td>
+                <td>STD</td>
+                <td>6,530,994</td>
+                <td>314x</td>
+                <td>91.21%</td>
+                <td><b style="color:blue">B</b></td>
+                <td>Hidden</td>
+                <td><a href="https://shortcakeosr.s-ul.eu/3oh1RNXA"><button type="button">Get Replay!</button></a></td>
+            </tr>
+            <tr>
+                <td><time>February 23, 2018 23:08:11</time></td>
+                <td><a href="http://osu.ppy.sh/s/239787" target="_blank">Star Driver - 5 Centimeters Per Second</a></td>
+                <td><a href="https://osu.ppy.sh/b/554363" target="_blank">Right Back</a></td>
+                <td>4.02</td>
+                <td>4:46 (3:54)</td>
+                <td>STD</td>
+                <td>3,088,843</td>
+                <td>301x</td>
+                <td>90.96%</td>
+                <td><b style="color:blue">B</b></td>
+                <td>Hidden</td>
+                <td><a href="https://shortcakeosr.s-ul.eu/ApI74leM"><button type="button">Get Replay!</button></a></td>
+            </tr>
+            <tr>
+                <td><time>February 23, 2018 19:18:36</time></td>
+                <td><a href="http://osu.ppy.sh/s/171388" target="_blank">cillia - FIRST</a></td>
+                <td><a href="https://osu.ppy.sh/b/612705" target="_blank">Starfort's Hyper</a></td>
+                <td>3.95</td>
+                <td>3:00 (2:23)</td>
+                <td>STD</td>
+                <td>1,811,696</td>
+                <td>257x</td>
+                <td>95.48%</td>
+                <td><b style="color:green">A</b></td>
+                <td>Hidden</td>
+                <td><a href="https://shortcakeosr.s-ul.eu/7whck9km"><button type="button">Get Replay!</button></a></td>
+            </tr>
+            <tr>
+                <td><time>February 25, 2017 20:32:16</time></td>
+                <td><a href="https://osu.ppy.sh/s/359173" target="_blank">antiPLUR - Speed of Link</a></td>
+                <td><a href="https://osu.ppy.sh/b/791322" target="_blank">70 220m/s</a></td>
+                <td>1.74</td>
+                <td>2:02 (1:55)</td>
+                <td>CTB</td>
+                <td>8,161,154</td>
+                <td>589x</td>
+                <td>99.51%</td>
+                <td><b style="color:yellow">S</b></td>
+                <td>-</td>
+                <td><a href="https://shortcakeosr.s-ul.eu/nK3XAbSH"><button type="button">Get Replay!</button></a></td>
+            </tr>
+            <tr>
+                <td><time>February 25, 2018 00:21:27</time></td>
+                <td><a href="https://osu.ppy.sh/s/455482" target="_blank">Komiya Mao - (can you) understand me?</a></td>
+                <td><a href="https://osu.ppy.sh/b/977197" target="_blank">kitty's insane?</a></td>
+                <td>4.33</td>
+                <td>1:29 (1:29)</td>
+                <td>STD</td>
+                <td>4,237,307</td>
+                <td>466x</td>
+                <td>93.46%</td>
+                <td><b style="color:grey">SH</b></td>
+                <td>Hidden</td>
+                <td><a href="https://shortcakeosr.s-ul.eu/IIbMK9tm"><button type="button">Get Replay!</button></a></td>
+            </tr>
+            <tr>
+                <td><time>September 14, 2017 01:46:38</time></td>
+                <td><a href="https://osu.ppy.sh/s/624544" target="_blank">ClariS - Hitorigoto -TV MIX-</a></td>
+                <td><a href="https://osu.ppy.sh/b/1316294" target="_blank">Rain</a></td>
+                <td>3.53</td>
+                <td>1:28 (1:28)</td>
+                <td>CTB</td>
+                <td>1,804,290</td>
+                <td>246x</td>
+                <td>95.40%</td>
+                <td><b style="color:green">A</b></td>
+                <td>-</td>
+                <td><a href="https://shortcakeosr.s-ul.eu/4A51NN7N"><button type="button">Get Replay!</button></a></td>
+            </tr>
+            <tr>
+                <td><time>October 5, 2017 16:34:25</time></td>
+                <td><a href="https://osu.ppy.sh/s/488573" target="_blank">DragonForce - Seasons</a></td>
+                <td><a href="https://osu.ppy.sh/b/1041619" target="_blank">Life</a></td>
+                <td>4.33</td>
+                <td>5:01 (5:01)</td>
+                <td>Mania</td>
+                <td>607,252</td>
+                <td>289x</td>
+                <td>88.87%</td>
+                <td><b style="color:blue">B</b></td>
+                <td>-</td>
+                <td><a href="https://shortcakeosr.s-ul.eu/kkXDEkdD"><button type="button">Get Replay!</button></a></td>
+            </tr>
+            <tr>
+                <td><time>November 14, 2015 22:24:04</time></td>
+                <td><a href="https://osu.ppy.sh/s/155315" target="_blank">Kishida Kyoudan & The Akeboshi Rockets - STRIKE THE BLOOD</a></td>
+                <td><a href="https://osu.ppy.sh/b/382079" target="_blank">4K HD</a></td>
+                <td>2.42</td>
+                <td>1:27 (1:27)</td>
+                <td>Mania</td>
+                <td>917,819</td>
+                <td>635x</td>
+                <td>96.98%</td>
+                <td><b style="color:yellow">S</b></td>
+                <td>-</td>
+                <td><a href="https://shortcakeosr.s-ul.eu/qI3I91Tc"><button type="button">Get Replay!</button></a></td>
+            </tr>
+            <tr>
+                <td><time>March 20, 2016 20:07:04</time></td>
+                <td><a href="https://osu.ppy.sh/s/261911" target="_blank">MitiS & MaHi - Blu (Speed Up Ver.)</a></td>
+                <td><a href="https://osu.ppy.sh/b/667757" target="_blank">Ono's Muzukashii</a></td>
+                <td>2.97</td>
+                <td>2:07 (2:02)</td>
+                <td>Taiko</td>
+                <td>217,672</td>
+                <td>148x</td>
+                <td>94.75%</td>
+                <td><b style="color:green">A</b></td>
+                <td>-</td>
+                <td><a href="https://shortcakeosr.s-ul.eu/x6GS8GYq"><button type="button">Get Replay!</button></a></td>
+            </tr>
+            <tr>
+                <td><time>October 2, 2017 19:55:28</time></td>
+                <td><a href="http://osu.ppy.sh/s/37563" target="_blank">IOSYS - Usatei 2011</a></td>
+                <td><a href="https://osu.ppy.sh/b/143033" target="_blank">Usamimi</a></td>
+                <td>3.26</td>
+                <td>2:57 (2:37)</td>
+                <td>STD</td>
+                <td>5,048,243</td>
+                <td>632x</td>
+                <td>97.54%</td>
+                <td><b style="color:green">A</b></td>
+                <td>Hidden</td>
+                <td><a href="https://shortcakeosr.s-ul.eu/pLnJ90kJ"><button type="button">Get Replay!</button></a></td>
+            </tr>
+            <tr>
+                <td><time>August 23, 2017 16:43:34</time></td>
+                <td><a href="https://osu.ppy.sh/s/387617" target="_blank">Avenged Sevenfold - So Far Away</a></td>
+                <td><a href="https://osu.ppy.sh/b/845959" target="_blank">Gone</a></td>
+                <td>1.98</td>
+                <td>5:18 (5:11)</td>
+                <td>CTB</td>
+                <td>32,524,094</td>
+                <td>1188x</td>
+                <td>100%</td>
+                <td><b style="color:yellow">SS</b></td>
+                <td>-</td>
+                <td><a href="https://shortcakeosr.s-ul.eu/r6xhJ7dI"><button type="button">Get Replay!</button></a></td>
+            </tr>
+            <tr>
+                <td><time>March 5, 2018 02:43:20</time></td>
+                <td><a href="https://osu.ppy.sh/s/697153" target="_blank">BEMANI Sound Team(PHQUASE vs DJ TOTTO) - TWO-TORIAL</a></td>
+                <td><a href="https://osu.ppy.sh/b/1476792" target="_blank">4K ADV</a></td>
+                <td>2.85</td>
+                <td>2:02 (2:01)</td>
+                <td>Mania</td>
+                <td>839,252</td>
+                <td>429x</td>
+                <td>95.50%</td>
+                <td><b style="color:grey">SH</b></td>
+                <td>Hidden</td>
+                <td><a href="https://shortcakeosr.s-ul.eu/CJ1Sr6BT"><button type="button">Get Replay!</button></a></td>
+            </tr>
+            <tr>
+                <td><time>March 4, 2018 00:05:06</time></td>
+                <td><a href="https://osu.ppy.sh/s/328597" target="_blank">l ACE l - Fuck Her Right in the Pu**y (#Selfie & Freaks Remix)</a></td>
+                <td><a href="https://osu.ppy.sh/b/763220" target="_blank">Collab Hard</a></td>
+                <td>2.97</td>
+                <td>1:53 (1:52)</td>
+                <td>STD</td>
+                <td>2,949,541</td>
+                <td>437x</td>
+                <td>95.44%</td>
+                <td><b style="color:grey">SH</b></td>
+                <td>Hidden</td>
+                <td><a href="https://shortcakeosr.s-ul.eu/YLUCF2TH"><button type="button">Get Replay!</button></a></td>
+            </tr>
+            <tr>
+                <td><time>March 3, 2018 23:27:05</time></td>
+                <td><a href="https://osu.ppy.sh/s/198820" target="_blank">Maduk ft. Veela - Ghost Assassin (Hourglass Bonusmix)</a></td>
+                <td><a href="https://osu.ppy.sh/b/474190" target="_blank">Damnae's Insane</a></td>
+                <td>3.98</td>
+                <td>2:33 (2:13)</td>
+                <td>STD</td>
+                <td>3,886,628</td>
+                <td>316x</td>
+                <td>89.92%</td>
+                <td><b style="color:green">A</b></td>
+                <td>Hidden</td>
+                <td><a href="https://shortcakeosr.s-ul.eu/QrYZx1em"><button type="button">Get Replay!</button></a></td>
+            </tr>
+            <tr>
+                <td><time>March 1, 2018 03:32:38</time></td>
+                <td><a href="https://osu.ppy.sh/s/186502" target="_blank">Sub Focus ft. Kele - Turn It Around</a></td>
+                <td><a href="https://osu.ppy.sh/b/530068" target="_blank">Hard</a></td>
+                <td>3.08</td>
+                <td>3:08 (2:35)</td>
+                <td>STD</td>
+                <td>7,308,433</td>
+                <td>718x</td>
+                <td>97.00%</td>
+                <td><b style="color:grey;">SH</b></td>
+                <td>Hidden</td>
+                <td><a href="https://shortcakeosr.s-ul.eu/9cqqwbx4"><button type="button">Get Replay!</button></a></td>
+            </tr>
+            <tr>
+                <td><tine>March 3, 2018 23:36:56</tine></td>
+                <td><a href="https://osu.ppy.sh/s/187595" target="_blank">Petit Rabbit's - Nichijou Decoration</a></td>
+                <td><a href="https://osu.ppy.sh/b/447507" target="_blank">Normal</a></td>
+                <td>1.50</td>
+                <td>1:29 (1:29)</td>
+                <td>STD</td>
+                <td>350,080</td>
+                <td>191x</td>
+                <td>99.37%</td>
+                <td><b style="color:grey">SH</b></td>
+                <td>Hidden, HardRock, Nightcore</td>
+                <td><a href="https://shortcakeosr.s-ul.eu/1E1dwTT7"><button type="button">Get Replay!</button></a></td>
+            </tr>
+            <tr>
+                <td><time>February 27, 2018 14:55:42</time></td>
+                <td><a href="https://osu.ppy.sh/s/444962" target="_blank">Kato Megumi (CV.Yasuno Kiyono) - M flat</a></td>
+                <td><a href="https://osu.ppy.sh/b/968101" target="_blank">Anais' Insane</a></td>
+                <td>4.15</td>
+                <td>3:35 (3:20)</td>
+                <td>STD</td>
+                <td>2,109,812</td>
+                <td>275x</td>
+                <td>93.36%</td>
+                <td><b style="color:green">A</b></td>
+                <td>Hidden</td>
+                <td><a href="https://shortcakeosr.s-ul.eu/IavxfK4l"><button type="button">Get Replay!</button></a></td>
+            </tr>
+            <tr>
+                <td><time>August 19, 2017 14:53:16</time></td>
+                <td><a href="https://osu.ppy.sh/s/296817" target="_blank">Sub Focus - Tidal Wave (feat. Alpines)</a></td>
+                <td><a href="https://osu.ppy.sh/b/701430" target="_blank">Kenterz's Light Insane</a></td>
+                <td>2.62</td>
+                <td>3:41 (2:59)</td>
+                <td>CTB</td>
+                <td>5,525,298</td>
+                <td>378x</td>
+                <td>98.98%</td>
+                <td><b style="color:yellow">S</b></td>
+                <td>-</td>
+                <td><a href="https://shortcakeosr.s-ul.eu/KbbH7MGq"><button type="button">Get Replay!</button></a></td>
+            </tr>
+            <tr>
+                <td><time>July 16, 2016 23:56:42</time></td>
+                <td><a href="https://osu.ppy.sh/s/94906" target="_blank">Caravan Palace - Clash</a></td>
+                <td><a href="https://osu.ppy.sh/b/255140" target="_blank">Hard</a></td>
+                <td>1.86</td>
+                <td>3:21 (3:01)</td>
+                <td>CTB</td>
+                <td>16,739,264</td>
+                <td>834x</td>
+                <td>100%</td>
+                <td><b style="color:yellow">SS</b></td>
+                <td>-</td>
+                <td><a href="https://shortcakeosr.s-ul.eu/a5jT03vJ"><button type="button">Get Replay!</button></a></td>
+            </tr>
+            <tr>
+                <td><time>September 16, 2017 23:04:37</time></td>
+                <td><a href="https://osu.ppy.sh/s/51972" target="_blank">goreshit - o'er the flood</a></td>
+                <td><a href="https://osu.ppy.sh/b/181253" target="_blank">The Flood Beneath</a></td>
+                <td>2.97</td>
+                <td>4:14 (3:58)</td>
+                <td>CTB</td>
+                <td>24,164,682</td>
+                <td>767x</td>
+                <td>99.70%</td>
+                <td><b style="color:yellow">S</b></td>
+                <td>-</td>
+                <td><a href="https://shortcakeosr.s-ul.eu/ks1oKwoQ"><button type="button">Get Replay!</button></a></td>
+            </tr>
+            <tr>
+                <td><time>August 4, 2016 20:06:44</time></td>
+                <td><a href="https://osu.ppy.sh/s/51972" target="_blank">goreshit - o'er the flood</a></td>
+                <td><a href="https://osu.ppy.sh/b/176817" target="_blank">Hard</a></td>
+                <td>2.00</td>
+                <td>3:35 (3:18)</td>
+                <td>CTB</td>
+                <td>24,914,234</td>
+                <td>1014x</td>
+                <td>100%</td>
+                <td><b style="color:yellow">SS</b></td>
+                <td>-</td>
+                <td><a href="https://shortcakeosr.s-ul.eu/A8P8sY8Y"><button type="button">Get Replay!</button></a></td>
+            </tr>
+            <tr>
+                <td><time>July 21, 2016 16:32:18</time></td>
+                <td><a href="https://osu.ppy.sh/s/97454" target="_blank">JimmyThumb-P - Sunset</a></td>
+                <td><a href="https://osu.ppy.sh/b/260529" target="_blank">Hard</a></td>
+                <td>1.76</td>
+                <td>4:12 (3:48)</td>
+                <td>CTB</td>
+                <td>23,089,300</td>
+                <td>1082x</td>
+                <td>99.94%</td>
+                <td><b style="color:yellow">S</b></td>
+                <td>-</td>
+                <td><a href="https://shortcakeosr.s-ul.eu/hD4jEoda"><button type="button">Get Replay!</button></a></td>
+            </tr>
+            <tr>
+                <td><time>September 25, 2017, 17:05:13</time></td>
+                <td><a href="https://osu.ppy.sh/s/123756" target="_blank">Pendulum - The Island</a></td>
+                <td><a href="https://osu.ppy.sh/b/315867" target="_blank">Absolution</a></td>
+                <td>3.41</td>
+                <td>8:54 (8:07)</td>
+                <td>CTB</td>
+                <td>11,811,590</td>
+                <td>489x</td>
+                <td>98.40%</td>
+                <td><b style="color:yellow">S</b></td>
+                <td>-</td>
+                <td><a href="https://shortcakeosr.s-ul.eu/YbeMdjRn"><button type="button">Get Replay!</button></a></td>
+            </tr>
+            <tr>
+                <td><time>January 17, 2018 01:45:36</time></td>
+                <td><a href="https://osu.ppy.sh/s/596704" target="_blank">ClariS - Hitorigoto -TV MIX-</a></td>
+                <td><a href="https://osu.ppy.sh/b/1263036" target="_blank">Little's Hard</a></td>
+                <td>3.30</td>
+                <td>1:27 (1:26)</td>
+                <td>STD</td>
+                <td>1,509,902</td>
+                <td>266x</td>
+                <td>97.16%</td>
+                <td><b style="color:grey">SH</b></td>
+                <td>Hidden</td>
+                <td><a href="https://shortcakeosr.s-ul.eu/ZM2zzufz"><button type="button">Get Replay!</button></a></td>
+            </tr>
+            <tr>
+                <td><time>August 17, 2018 01:01:09</time></td>
+                <td><a href="https://osu.ppy.sh/s/596704" target="_blank">ClariS - Hitorigoto -TV MIX-</a></td>
+                <td><a href="https://osu.ppy.sh/b/1264070" target="_blank">Insane</a></td>
+                <td>2.69</td>
+                <td>1:27 (1:26)</td>
+                <td>CTB</td>
+                <td>2,541,752</td>
+                <td>301x</td>
+                <td>99.40%</td>
+                <td><b style="color:yellow">S</b></td>
+                <td>-</td>
+                <td><a href="https://shortcakeosr.s-ul.eu/GQt3LtzR"><button type="button">Get Replay!</button></a></td>
+            </tr>
+            <tr>
+                <td><time>August 16, 2016 18:00:46</time></td>
+                <td><a href="https://osu.ppy.sh/s/486142" target="_blank">cYsmix - Fright March</a></td>
+                <td><a href="https://osu.ppy.sh/b/1036656" target="_blank">Normal</a></td>
+                <td>2.11</td>
+                <td>2:28 (2:23)</td>
+                <td>STD</td>
+                <td>3,070,644</td>
+                <td>598x</td>
+                <td>99.74%</td>
+                <td><b style="color:grey">SH</b></td>
+                <td>Hidden</td>
+                <td><a href="https://shortcakeosr.s-ul.eu/YBm8Nx0l"><button type="button">Get Replay!</button></a></td>
+            </tr>
+            <tr>
+                <td><time>January 19, 2018 03:21:28</time></td>
+                <td><a href="http://osu.ppy.sh/s/34256" target="_blank">Pendulum - Blood Sugar</a></td>
+                <td><a href="https://osu.ppy.sh/b/112385" target="_blank">Hard</a></td>
+                <td>3.77</td>
+                <td>4:24 (2:40)</td>
+                <td>STD</td>
+                <td>1,707,746</td>
+                <td>213x</td>
+                <td>95.36%</td>
+                <td><b style="color:green">A</b></td>
+                <td>Hidden</td>
+                <td><a href="https://shortcakeosr.s-ul.eu/8Q6jaMpU"><button type="button">Get Replay!</button></a></td>
+            </tr>
+            <tr>
+                <td><time>February 20, 2018 08:24:40</time></td>
+                <td><a href="https://osu.ppy.sh/s/223370" target="_blank">Team Grimoire - C18H27NO3</a></td>
+                <td><a href="https://osu.ppy.sh/b/901194" target="_blank">Ryv's ADVANCED</a></td>
+                <td>3.79</td>
+                <td>1:53 (1:43)</td>
+                <td>STD</td>
+                <td>960,477</td>
+                <td>161x</td>
+                <td>92.99%</td>
+                <td><b style="color:green">A</b></td>
+                <td>Hidden</td>
+                <td><a href="https://shortcakeosr.s-ul.eu/JHapjCiW"><button type="button">Get Replay!</button></a></td>
+            </tr>
+            <tr>
+                <td><time>February 16, 2018 04:03:02</time></td>
+                <td><a href="http://osu.ppy.sh/s/166649" target="_blank">MowtenDoo - Nichismoke</a></td>
+                <td><a href="https://osu.ppy.sh/b/405022" target="_blank">420 style</a></td>
+                <td>4.20</td>
+                <td>1:31 (1:27)</td>
+                <td>STD</td>
+                <td>732,264</td>
+                <td>119x</td>
+                <td>93.08%</td>
+                <td><b style="color:green">A</b></td>
+                <td>Hidden</td>
+                <td><a href="https://shortcakeosr.s-ul.eu/asqEuB1J"><button type="button">Get Replay!</button></a></td>
+            </tr>
+            <tr>
+                <td><time>February 23, 2018 17:14:26</time></td>
+                <td><a href="https://osu.ppy.sh/s/509350" target="_blank">Perfect & JJayJoker - Tarzan JJayJoker</a></td>
+                <td><a href="https://osu.ppy.sh/b/1083221" target="_blank">Krfawego Normalny</a></td>
+                <td>1.94</td>
+                <td>1:09 (1:03)</td>
+                <td>STD</td>
+                <td>457,802</td>
+                <td>191x</td>
+                <td>97.94%</td>
+                <td><b style="color:grey">SH</b></td>
+                <td>Hidden, HardRock, Nightcore</td>
+                <td><a href="https://shortcakeosr.s-ul.eu/0IHNVuTV"><button type="button">Get Replay!</button></a></td>
+            </tr>
+            <tr>
+                <td><time>January 30, 2018 04:29:08</time></td>
+                <td><a href="http://osu.ppy.sh/s/613961" target="_blank">Fox Stevenson & Curbi - Hoohah (VIP Edit)</a></td>
+                <td><a href="https://osu.ppy.sh/b/1295252" target="_blank">Plaudible's Hard</a></td>
+                <td>3.15</td>
+                <td>1:29 (1:19)</td>
+                <td>STD</td>
+                <td>1,283,254</td>
+                <td>243x</td>
+                <td>97.70%</td>
+                <td><b style="color:grey">SH</b></td>
+                <td>Hidden</td>
+                <td><a href="https://shortcakeosr.s-ul.eu/dWp6bGaa"><button type="button">Get Replay!</button></a></td>
+            </tr>
+            <tr>
+                <td><time>May 31, 2016 21:30:34</time></td>
+                <td><a href="http://osu.ppy.sh/s/338329" target="_blank">Dzeko & Torres - 2014 in 10 Minutes</a></td>
+                <td><a href="https://osu.ppy.sh/b/748505" target="_blank">Marathon</a></td>
+                <td>2.72</td>
+                <td>10:06 (9:11)</td>
+                <td>CTB</td>
+                <td>17,037,362</td>
+                <td>662x</td>
+                <td>98.68%</td>
+                <td><b style="color:yellow">S</b></td>
+                <td>-</td>
+                <td><a href="https://shortcakeosr.s-ul.eu/KLPJzBMW"><button type="button">Get Replay!</button></a></td>
+            </tr>
+            <tr>
+                <td><time>July 29, 2016 17:19:37</time></td>
+                <td><a href="https://osu.ppy.sh/s/374858" target="_blank">IOSYS - Tanoshii Yoru no Ochakai - Ringo's Tea Party</a></td>
+                <td><a href="https://osu.ppy.sh/b/829360" target="_blank">Normal</a></td>
+                <td>1.31</td>
+                <td>3:10 (2:51)</td>
+                <td>CTB</td>
+                <td>11,166,179</td>
+                <td>664x</td>
+                <td>100%</td>
+                <td><b style="color:grey">XH</b></td>
+                <td>FlashLight</td>
+                <td><a href="https://shortcakeosr.s-ul.eu/jv4q3ob5"><button type="button">Get Replay!</button></a></td>
+            </tr>
+            <tr>
+                <td><time>November 22, 2017 19:03:52</time></td>
+                <td><a href="https://osu.ppy.sh/s/513716" target="_blank">Dzeko & Torres - 2013 In 10 Minutes</a></td>
+                <td><a href="https://osu.ppy.sh/b/1091478" target="_blank">Marathon</a></td>
+                <td>2.32</td>
+                <td>10:39 (9:49)</td>
+                <td>CTB</td>
+                <td>28,404,934</td>
+                <td>606x</td>
+                <td>99.58%</td>
+                <td><b style="color:yellow">S</b></td>
+                <td>-</td>
+                <td><a href="https://shortcakeosr.s-ul.eu/1QSdBPF7"><button type="button">Get Replay!</button></a></td>
+            </tr>
+            <tr>
+                <td><time>July 20, 2016 11:02:27</time></td>
+                <td><a href="http://osu.ppy.sh/s/104746" target="_blank">Savant - Melody Circus</a></td>
+                <td><a href="https://osu.ppy.sh/b/547082" target="_blank">4-bit</a></td>
+                <td>1.97</td>
+                <td>3:23 (2:31)</td>
+                <td>CTB</td>
+                <td>13,606,980</td>
+                <td>747x</td>
+                <td>99.74%</td>
+                <td><b style="color:yellow">S</b></td>
+                <td>-</td>
+                <td><a href="https://shortcakeosr.s-ul.eu/w4uMKY7T"><button type="button">Get Replay!</button></a></td>
+            </tr>
+            <tr>
+                <td><time>April 13, 2017 21:11:44</time></td>
+                <td><a href="https://osu.ppy.sh/s/351403" target="_blank">Culprate - Yin</a></td>
+                <td><a href="https://osu.ppy.sh/b/832543" target="_blank">Bonzi's Light Insane</a></td>
+                <td>2.29</td>
+                <td>1:39 (1:31)</td>
+                <td>CTB</td>
+                <td>5,503,334</td>
+                <td>443x</td>
+                <td>98.89%</td>
+                <td><b style="color:yellow">S</b></td>
+                <td>-</td>
+                <td><a href="https://shortcakeosr.s-ul.eu/bBwRSUud"><button type="button">Get Replay!</button></a></td>
+            </tr>
+            <tr>
+                <td><time>December 30, 2017 02:24:00</time></td>
+                <td><a href="https://osu.ppy.sh/s/489039" target="_blank">GARNiDELiA - Gokuraku Jodo</a></td>
+                <td><a href="https://osu.ppy.sh/b/1289645" target="_blank">Soda's Hard</a></td>
+                <td>3.06</td>
+                <td>3:33 (3:18)</td>
+                <td>STD</td>
+                <td>9,481,957</td>
+                <td>800x</td>
+                <td>96.72%</td>
+                <td><b style="color:green">A</b></td>
+                <td>Hidden</td>
+                <td><a href="https://shortcakeosr.s-ul.eu/dIqcYZd7"><button type="button">Get Replay!</button></a></td>
+            </tr>
+            <tr>
+                <td><time>March 7, 2018 03:49:56</time></td>
+                <td><a href="http://osu.ppy.sh/s/261145" target="_blank">SawanoHiroyuki[nZk]:mizuki - &Z (TV size)</a></td>
+                <td><a href="https://osu.ppy.sh/b/597469" target="_blank">Aldnoah</a></td>
+                <td>4.07</td>
+                <td>1:29 (1:25)</td>
+                <td>STD</td>
+                <td>1,466,845</td>
+                <td>249x</td>
+                <td>95.34%</td>
+                <td><b style="color:green">A</b></td>
+                <td>Hidden</td>
+                <td><a href="https://shortcakeosr.s-ul.eu/xwjtqdc1"><button type="button">Get Replay!</button></a></td>
+            </tr>
+            <tr>
+                <td><time>March 7, 2018 01:58:18</time></td>
+                <td><a href="http://osu.ppy.sh/s/260797" target="_blank">7!! - Orange (Anime Ver.)</a></td>
+                <td><a href="https://osu.ppy.sh/b/602865" target="_blank">Melt's Hard</a></td>
+                <td>2.29</td>
+                <td>1:25 (1:24)</td>
+                <td>STD</td>
+                <td>918,753</td>
+                <td>241x</td>
+                <td>97.33%</td>
+                <td><b style="color:grey">SH</b></td>
+                <td>Hidden, DoubleTime</td>
+                <td><a href="https://shortcakeosr.s-ul.eu/0vWn391m"><button type="button">Get Replay!</button></a></td>
+            </tr>
+            <tr>
+                <td><time>March 7, 2018 01:55:55</time></td>
+                <td><a href="http://osu.ppy.sh/s/260797" target="_blank">7!! - Orange (Anime Ver.)</a></td>
+                <td><a href="https://osu.ppy.sh/b/618921" target="_blank">JJburst's Normal</a></td>
+                <td>1.72</td>
+                <td>1:25 (1:24)</td>
+                <td>STD</td>
+                <td>454,631</td>
+                <td>182x</td>
+                <td>97.46%</td>
+                <td><b style="color:grey">SH</b></td>
+                <td>Hidden, HardRock, Nightcore</td>
+                <td><a href="https://shortcakeosr.s-ul.eu/6ekNkv6q"><button type="button">Get Replay!</button></a></td>
+            </tr>
+            <tr>
+                <td><time>February 20, 2018 09:16:10</time></td>
+                <td><a href="https://osu.ppy.sh/s/665562" target="_blank">Luis Fonsi - Despacito ft. Daddy Yankee</a></td>
+                <td><a href="https://osu.ppy.sh/b/1409266" target="_blank">Insane</a></td>
+                <td>4.07</td>
+                <td>3:47 (3:28)</td>
+                <td>STD</td>
+                <td>3,835,978</td>
+                <td>385x</td>
+                <td>97.06%</td>
+                <td><b style="color:green">A</b></td>
+                <td>Hidden</td>
+                <td><a href="https://shortcakeosr.s-ul.eu/m78X2y0v"><button type="button">Get Replay!</button></a></td>
+            </tr>
+            <tr>
+                <td><time>November 11, 2017 21:08:24</time></td>
+                <td><a href="https://osu.ppy.sh/s/117757" target="_blank">keeno - glow</a></td>
+                <td><a href="https://osu.ppy.sh/b/303258" target="_blank">4K Easy</a></td>
+                <td>0.78</td>
+                <td>1:56 (1:53)</td>
+                <td>Mania</td>
+                <td>991,626</td>
+                <td>180x</td>
+                <td>100%</td>
+                <td><b style="color:grey">XH</b></td>
+                <td>Hidden</td>
+                <td><a href="https://shortcakeosr.s-ul.eu/ZkpP1DoC"><button type="button">Get Replay!</button></a></td>
+            </tr>
+            <tr>
+                <td><time>November 27, 2017 23:01:53</time></td>
+                <td><a href="https://osu.ppy.sh/s/148003" target="_blank">a_hisa - Cheshire,s dance</a></td>
+                <td><a href="https://osu.ppy.sh/b/371337" target="_blank">Normal</a></td>
+                <td>2.17</td>
+                <td>2:57 (2:41)</td>
+                <td>STD</td>
+                <td>4,886,098</td>
+                <td>769x</td>
+                <td>98.58%</td>
+                <td><b style="color:grey">SH</b></td>
+                <td>Hidden, HardRock</td>
+                <td><a href="https://shortcakeosr.s-ul.eu/aTdgfybC"><button type="button">Get Replay!</button></a></td>
+            </tr>
+            <tr>
+                <td><time>March 7, 2018 04:14:54</time></td>
+                <td><a href="http://osu.ppy.sh/s/244936" target="_blank">HeHeJSM - YENA (Dubstep Remix)</a></td>
+                <td><a href="https://osu.ppy.sh/b/675211" target="_blank">Insane</a></td>
+                <td>3.49</td>
+                <td>0:51 (0:50)</td>
+                <td>STD</td>
+                <td>238,922</td>
+                <td>83x</td>
+                <td>92.47%</td>
+                <td><b style="color:green">A</b></td>
+                <td>Hidden</td>
+                <td><a href="https://shortcakeosr.s-ul.eu/Fdoq0opB"><button type="button">Get Replay!</button></a></td>
+            </tr>
+            <tr>
+                <td><time>March 7, 2018 01:42:50</time></td>
+                <td><a href="https://osu.ppy.sh/s/167740" target="_blank">ensou ft. GUMI - COMA</a></td>
+                <td><a href="https://osu.ppy.sh/b/407314" target="_blank">Insane</a></td>
+                <td>4.54</td>
+                <td>1:39 (1:37)</td>
+                <td>STD</td>
+                <td>2,020,837</td>
+                <td>339x</td>
+                <td>91.59%</td>
+                <td><b style="color:blue">B</b></td>
+                <td>Hidden</td>
+                <td><a href="https://shortcakeosr.s-ul.eu/dSBguKoz"><button type="button">Get Replay!</button></a></td>
+            </tr>
+            <tr>
+                <td><time>March 7, 2018 03:04:37</time></td>
+                <td><a href="http://osu.ppy.sh/s/354537" target="_blank">Feint - Vagrant (feat. Veela)</a></td>
+                <td><a href="https://osu.ppy.sh/b/801054" target="_blank">Noz's Insane</a></td>
+                <td>4.54</td>
+                <td>1:52 (1:19)</td>
+                <td>STD</td>
+                <td>1,429,229</td>
+                <td>196x</td>
+                <td>93.29%</td>
+                <td><b style="color:green">A</b></td>
+                <td>Hidden</td>
+                <td><a href="https://shortcakeosr.s-ul.eu/uXx1qQ6b"><button type="button">Get Replay!</button></a></td>
+            </tr>
+            <tr>
+                <td><time>September 2, 2017 04:00:35</time></td>
+                <td><a href="https://osu.ppy.sh/s/551125" target="_blank">3R2 - Bounce Bounce</a></td>
+                <td><a href="https://osu.ppy.sh/b/1175090" target="_blank">Hard</a></td>
+                <td>2.03</td>
+                <td>1:02 (1:01)</td>
+                <td>CTB</td>
+                <td>2,933,454</td>
+                <td>344x</td>
+                <td>99.75%</td>
+                <td><b style="color:yellow">S</b></td>
+                <td>-</td>
+                <td><a href="https://shortcakeosr.s-ul.eu/TWTkFzBy"><button type="button">Get Replay!</button></a></td>
+            </tr>
+            <tr>
+                <td><time>January 19, 2018 02:15:08</time></td>
+                <td><a href="http://osu.ppy.sh/s/342896" target="_blank">supercell - Kimi no Shiranai Monogatari -TV Edit-</a></td>
+                <td><a href="https://osu.ppy.sh/b/759844" target="_blank">Baraatje123's Hard</a></td>
+                <td>3.56</td>
+                <td>1:26 (1:25)</td>
+                <td>STD</td>
+                <td>2,340,929</td>
+                <td>378x</td>
+                <td>94.70%</td>
+                <td><b style="color:grey">SH</b></td>
+                <td>Hidden</td>
+                <td><a href="https://shortcakeosr.s-ul.eu/zb5aU2xD"><button type="button">Get Replay!</button></a></td>
+            </tr>
+            <tr>
+                <td><time>September 8, 2017 01:11:52</time></td>
+                <td><a href="https://osu.ppy.sh/s/551125" target="_blank">3R2 - Bounce Bounce</a></td>
+                <td><a href="https://osu.ppy.sh/b/1176571" target="_blank">Nozely's Advanced</a></td>
+                <td>1.54</td>
+                <td>1:02 (1:01)</td>
+                <td>CTB</td>
+                <td>1,503,102</td>
+                <td>220x</td>
+                <td>99.32%</td>
+                <td><b style="color:yellow">S</b></td>
+                <td>HardRock</td>
+                <td><a href="https://shortcakeosr.s-ul.eu/6nkCtfdg"><button type="button">Get Replay!</button></a></td>
+            </tr>
+            <tr>
+                <td><time>February 12, 2018 02:05:10</time></td>
+                <td><a href="https://osu.ppy.sh/s/523568" target="_blank">Bakari - the final outburst of dying creativity</a></td>
+                <td><a href="https://osu.ppy.sh/b/1111522" target="_blank">normal</a></td>
+                <td>1.92</td>
+                <td>0:33 (0:32)</td>
+                <td>STD</td>
+                <td>216,331</td>
+                <td>103x</td>
+                <td>94.79%</td>
+                <td><b style="color:grey">SH</b></td>
+                <td>Hidden, HardRock, Nightcore</td>
+                <td><a href="https://shortcakeosr.s-ul.eu/4j7dLqaU"><button type="button">Get Replay!</button></a></td>
+            </tr>
+            <tr>
+                <td><time>March 11, 2018 01:55:49</time></td>
+                <td><a href="http://osu.ppy.sh/s/132148" target="_blank">FictionJunction - Parallel Hearts (TV Size)</a></td>
+                <td><a href="https://osu.ppy.sh/b/356727" target="_blank">Garven's Easy</a></td>
+                <td>1.20</td>
+                <td>1:26 (1:25)</td>
+                <td>CTB</td>
+                <td>583,263</td>
+                <td>274x</td>
+                <td>99.57%</td>
+                <td><b style="color:yellow">S</b></td>
+                <td>HardRock, Nightcore</td>
+                <td><a href="https://shortcakeosr.s-ul.eu/WUenRetP"><button type="button">Get Replay!</button></a></td>
+            </tr>
+            <tr>
+                <td><time>March 11, 2018 02:10:33</time></td>
+                <td><a href="http://osu.ppy.sh/s/132148" target="_blank">FictionJunction - Parallel Hearts (TV Size)</a></td>
+                <td><a href="https://osu.ppy.sh/b/356728" target="_blank">Normal</a></td>
+                <td>1.17</td>
+                <td>1:26 (1:25)</td>
+                <td>CTB</td>
+                <td>1,739,464</td>
+                <td>350x</td>
+                <td>100%</td>
+                <td><b style="color:grey">XH</b></td>
+                <td>FlashLight</td>
+                <td><a href="https://shortcakeosr.s-ul.eu/XTCXq88R"><button type="button">Get Replay!</button></a></td>
+            </tr>
+            <tr>
+                <td><time>February 14, 2018 03:54:05</time></td>
+                <td><a href="http://osu.ppy.sh/s/132148" target="_blank">FictionJunction - Parallel Hearts (TV Size)</a></td>
+                <td><a href="https://osu.ppy.sh/b/332460" target="_blank">Insane</a></td>
+                <td>4.03</td>
+                <td>1:26 (1:25)</td>
+                <td>STD</td>
+                <td>2,173,949</td>
+                <td>316x</td>
+                <td>93.44%</td>
+                <td><b style="color:green">A</b></td>
+                <td>Hidden</td>
+                <td><a href="https://shortcakeosr.s-ul.eu/fzYPIQQm"><button type="button">Get Replay!</button></a></td>
+            </tr>
+            <tr>
+                <td><time>February 17, 2018 01:33:42</time></td>
+                <td><a href="http://osu.ppy.sh/s/142937" target="_blank">DJ YOSHITAKA - CUSTOM DRIVE</a></td>
+                <td><a href="https://osu.ppy.sh/b/355974" target="_blank">Normal</a></td>
+                <td>1.74</td>
+                <td>0:27 (0:27)</td>
+                <td>STD</td>
+                <td>95,531</td>
+                <td>79x</td>
+                <td>100%</td>
+                <td><b style="color:grey">XH</b></td>
+                <td>Hidden, HardRock, Nightcore</td>
+                <td><a href="https://shortcakeosr.s-ul.eu/mf7HlIcY"><button type="button">Get Replay!</button></a></td>
+            </tr>
+            <tr>
+                <td><time>September 4, 2017 08:57:34</time></td>
+                <td><a href="https://osu.ppy.sh/s/479811" target="_blank">ITO KASHITARO - Yuudachi no Ribbon</a></td>
+                <td><a href="https://osu.ppy.sh/b/1085586" target="_blank">Hard</a></td>
+                <td>2.34</td>
+                <td>1:54 (1:53)</td>
+                <td>CTB</td>
+                <td>11,710,038</td>
+                <td>785x</td>
+                <td>100%</td>
+                <td><b style="color:yellow">SS</b></td>
+                <td>-</td>
+                <td><a href="https://shortcakeosr.s-ul.eu/frYB9oc3"><button type="button">Get Replay!</button></a></td>
+            </tr>
+            <tr>
+                <td><time>February 13, 2018 01:37:38</time></td>
+                <td><a href="https://osu.ppy.sh/s/455011" target="_blank">TrySail - High Free Spirits</a></td>
+                <td><a href="https://osu.ppy.sh/b/1095944" target="_blank">Pata-Mon's Insane</a></td>
+                <td>4.12</td>
+                <td>4:34 (4:18)</td>
+                <td>STD</td>
+                <td>2,709,155</td>
+                <td>186x</td>
+                <td>90.16%</td>
+                <td><b style="color:blue">B</b></td>
+                <td>Hidden</td>
+                <td><a href="https://shortcakeosr.s-ul.eu/QT9tQosj"><button type="button">Get Replay!</button></a></td>
+            </tr>
+            <tr>
+                <td><time>September 4, 2016 11:15:33</time></td>
+                <td><a href="https://osu.ppy.sh/s/347649" target="_blank">The Prince Of Sinewaves - Ori and The Blind Forest (POS remix)</a></td>
+                <td><a href="https://osu.ppy.sh/b/767043" target="_blank">Easy</a></td>
+                <td>0.53</td>
+                <td>0:46 (0:46)</td>
+                <td>CTB</td>
+                <td>68,679</td>
+                <td>62x</td>
+                <td>100%</td>
+                <td><b style="color:grey">XH</b></td>
+                <td>HardRock, DoubleTime, FlashLight, Perfect</td>
+                <td><a href="https://shortcakeosr.s-ul.eu/VFNy7sKO"><button type="button">Get Replay!</button></a></td>
+            </tr>
+            <tr>
+                <td><time>September 4, 2016 08:25:26</time></td>
+                <td><a href="https://osu.ppy.sh/s/347649" target="_blank">The Prince Of Sinewaves - Ori and The Blind Forest (POS remix)</a></td>
+                <td><a href="https://osu.ppy.sh/b/767044" target="_blank">Normal</a></td>
+                <td>0.91</td>
+                <td>0:46 (0:46)</td>
+                <td>CTB</td>
+                <td>232,455</td>
+                <td>96x</td>
+                <td>100%</td>
+                <td><b style="color:grey">XH</b></td>
+                <td>HardRock, FlashLight</td>
+                <td><a href="https://shortcakeosr.s-ul.eu/RyrhIPZz"><button type="button">Get Replay!</button></a></td>
+            </tr>
+            <tr>
+                <td><time>October 15, 2016 02:16:26</time></td>
+                <td><a href="https://osu.ppy.sh/s/347649" target="_blank">The Prince Of Sinewaves - Ori and The Blind Forest (POS remix)</a></td>
+                <td><a href="https://osu.ppy.sh/b/767043" target="_blank">Easy</a></td>
+                <td>1.15</td>
+                <td>0:46 (0:46)</td>
+                <td>STD</td>
+                <td>50,052</td>
+                <td>62x</td>
+                <td>98.33%</td>
+                <td><b style="color:grey">SH</b></td>
+                <td>Hidden, HardRock, Nightcore</td>
+                <td><a href="https://shortcakeosr.s-ul.eu/saUkXbXE"><button type="button">Get Replay!</button></a></td>
+            </tr>
+            <tr>
+                <td><time>September 18, 2016 02:44:10</time></td>
+                <td><a href="https://osu.ppy.sh/s/347649" target="_blank">The Prince Of Sinewaves - Ori and The Blind Forest (POS remix)</a></td>
+                <td><a href="https://osu.ppy.sh/b/767044" target="_blank">Normal</a></td>
+                <td>1.83</td>
+                <td>0:46 (0:46)</td>
+                <td>STD</td>
+                <td>132,760</td>
+                <td>96x</td>
+                <td>97.74%</td>
+                <td><b style="color:grey">SH</b></td>
+                <td>Hidden, HardRock</td>
+                <td><a href="https://shortcakeosr.s-ul.eu/IrH8eZr6"><button type="button">Get Replay!</button></a></td>
+            </tr>
+            <tr>
+                <td><time>July 27, 2017 18:03:13</time></td>
+                <td><a href="https://osu.ppy.sh/s/347649" target="_blank">The Prince Of Sinewaves - Ori and The Blind Forest (POS remix)</a></td>
+                <td><a href="https://osu.ppy.sh/b/767043" target="_blank">Easy</a></td>
+                <td>0.85</td>
+                <td>0:46 (0:46)</td>
+                <td>Taiko</td>
+                <td>48,014</td>
+                <td>38x</td>
+                <td>98.68%</td>
+                <td><b style="color:grey">SH</b></td>
+                <td>HardRock, FlashLight</td>
+                <td><a href="https://shortcakeosr.s-ul.eu/Ro5E9o9l"><button type="button">Get Replay!</button></a></td>
+            </tr>
+            <tr>
+                <td><time>July 27, 2016 18:07:50</time></td>
+                <td><a href="https://osu.ppy.sh/s/347649" target="_blank">The Prince Of Sinewaves - Ori and The Blind Forest (POS remix)</a></td>
+                <td><a href="https://osu.ppy.sh/b/767044" target="_blank">Normal</a></td>
+                <td>1.54</td>
+                <td>0:46 (0:46)</td>
+                <td>Taiko</td>
+                <td>49,458</td>
+                <td>96x</td>
+                <td>94.27%</td>
+                <td><b style="color:green">A</b></td>
+                <td>HardRock, DoubleTime</td>
+                <td><a href="https://shortcakeosr.s-ul.eu/k8hz6aXy"><button type="button">Get Replay!</button></a></td>
+            </tr>
+        </table>
+        <p><a href="dir_page2.html">Next >></p>
+    </body>
+</html>
