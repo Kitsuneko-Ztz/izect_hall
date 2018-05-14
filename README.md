@@ -2,4 +2,4 @@
 
 Web: http://izct.cf/
 
-click the web link to see the web (hall)
+click the web link to see the web
